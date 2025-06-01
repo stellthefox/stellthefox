@@ -1,16 +1,19 @@
-## Hi there 👋
+## 🦊 Stell | Dev, Artist and Streamer
+# 🎓 Background
+I'm an Electronics Technician and currently studying for a degree in Systems Analysis and Development
 
-<!--
-**stellthefox/stellthefox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Indie Game Dev | 🎨 Digital Art | 💡 Creative Electronics
 
-Here are some ideas to get you started:
+## 📌 About Me
+Hi there! I'm Stell — a dev fox who loves making games, interactive systems, and sharing everything live on stream.  
+I also enjoy playing with electronics and maker tools 🧪⚡
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 What I'm Working On
+- 🌱 Working on an automation project for agriculture 
+- 🎮 Developing a game 
+- 🤖 Developing my first commercial bot
+
+## 🧠 What I'm Learning
+- ⚡ RS-485 communication
+- 🗃️ Databases and data structuring  
+- 🤖 Natural language AI and text-based interactions
