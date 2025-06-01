@@ -1,6 +1,5 @@
 ## 🦊 Stell | Dev, Artist and Streamer
-### 🎓 Background
-I'm an Electronics Technician and currently studying for a degree in Systems Analysis and Development
+### I'm an Electronics Technician and currently studying for a degree in Systems Analysis and Development
 
 🎮 Indie Game Dev | 🎨 Digital Art | 💡 Creative Electronics
 
@@ -8,15 +7,44 @@ I'm an Electronics Technician and currently studying for a degree in Systems Ana
 Hi there! I'm Stell — a dev fox who loves making games, interactive systems, and sharing everything live on stream.  
 I also enjoy playing with electronics and maker tools 🧪⚡
 
-## 🎯 What I'm Working On
-- 🌱 Working on an automation project for agriculture 
-- 🎮 Developing a game 
-- 🤖 Developing my first commercial bot
 
-## 🧠 What I'm Learning
+
+<details>
+  <summary>🎯 What I'm Working On</summary>
+  
+- 🌱 Working on an automation project for agriculture <br>
+- 🎮 Developing a game <br>
+- 🤖 Developing my first commercial bot
+ 
+</details>
+
+<details>
+  <summary>🧠 What I'm Learning</summary>
+  
 - ⚡ RS-485 communication
 - 🗃️ Databases and data structuring  
 - 🤖 Natural language AI and text-based interactions
+
+</details>
+
+<details>
+  <summary>🎮 My favorite games</summary>
+  
+- Minecraft
+- Sea of Thieves 
+- The Dog Island
+- Stardew Valley
+
+</details>
+
+<details>
+  <summary>📖 What I'm reading</summary>
+  
+- The Republic (by Plato)
+- The Art of War (by Sun Tzu)
+- From the Earth to the Moon (by Jules Verne)
+
+</details>
 
 ### 🖼️ Frontend
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)](#)
