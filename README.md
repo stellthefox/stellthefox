@@ -1,5 +1,5 @@
 ## 🦊 Stell | Dev, Artist and Streamer
-### I'm an Electronics Technician and currently studying for a degree in Systems Analysis and Development
+### I'm an Electronics Technician, currently working on some fun projects!
 
 🎮 Indie Game Dev | 🎨 Digital Art | 💡 Creative Electronics
 
