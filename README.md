@@ -12,16 +12,15 @@ I also enjoy playing with electronics and maker tools 🧪⚡
 <details>
   <summary>🎯 What I'm Working On</summary>
   
-- 🌱 Working on an automation project for agriculture <br>
-- 🎮 Developing a game <br>
-- 🤖 Developing my first commercial bot
+- 🌱 Working on a production management website for farmers <br>
+- 🎮 Creating a mini remaster for a PS2 game <br>
+- 🤖 Developing a little assistant robot with ESP32 <br>
  
 </details>
 
 <details>
   <summary>🧠 What I'm Learning</summary>
   
-- ⚡ RS-485 communication
 - 🗃️ Databases and data structuring  
 - 🤖 Natural language AI and text-based interactions
 
@@ -41,8 +40,6 @@ I also enjoy playing with electronics and maker tools 🧪⚡
   <summary>📖 What I'm reading</summary>
   
 - The Republic (by Plato)
-- The Art of War (by Sun Tzu)
-- From the Earth to the Moon (by Jules Verne)
 
 </details>
 
